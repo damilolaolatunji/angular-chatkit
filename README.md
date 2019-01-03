@@ -1,6 +1,6 @@
 # Angular 7 Chat App Demo
 
-Chat App built with Angular 7 and Chatkit. Tutorial:
+Chat App built with Angular 7 and Chatkit. Tutorial: https://pusher.com/tutorials/private-rooms-angular-chat
 
 ## Getting Started
 
